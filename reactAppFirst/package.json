@@ -1,0 +1,26 @@
+{
+  "name": "react-course",
+  "version": "1.0.0",
+  "description": "This is first project by Umair zafar",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Umair123-dot/basic-react.git"
+  },
+  "keywords": [
+    "react",
+    "umair"
+  ],
+  "author": "Umair zafar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Umair123-dot/basic-react/issues"
+  },
+  "homepage": "https://github.com/Umair123-dot/basic-react#readme",
+  "devDependencies": {
+    "parcel": "^2.10.3"
+  }
+}
